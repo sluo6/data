@@ -44,4 +44,12 @@ P paste text on the current line.
 y yank text into the copy buffer.
 
 
+Exit
+:q
+:qa!
+:w
+:w FILE_NAME
 
+Change Mode
+Esc
+:
